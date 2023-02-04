@@ -1,0 +1,72 @@
+{
+  "id": "3866552",
+  "name": "123",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "160001",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2076418",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e8cf",
+      "unicode_decimal": 59599
+    },
+    {
+      "icon_id": "577357",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "3406917",
+      "name": "男",
+      "font_class": "nan",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "3406919",
+      "name": "女",
+      "font_class": "nv",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "11474234",
+      "name": "component",
+      "font_class": "component",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "11474270",
+      "name": "history",
+      "font_class": "history",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "11474324",
+      "name": "play",
+      "font_class": "play",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "11481287",
+      "name": "all-fill",
+      "font_class": "all-fill",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    }
+  ]
+}
